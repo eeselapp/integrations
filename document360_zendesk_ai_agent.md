@@ -38,8 +38,6 @@ With your Document360 knowledge base integrated, adjust how eesel AI will operat
   
 - **Human Handover:** Implement a system for handing over conversations to human agents when the AI determines it cannot adequately resolve an inquiry.
 
-![Human Handover](https://downloads.intercomcdn.com/i/o/973787947/6f3a4f97afa6c80b137c49b4/image.png)
-
 ## Support and Assistance
 
 If you encounter any issues or have questions about integrating Document360 with Zendesk through eesel AI, our support team is ready to assist. Reach out for personalized help to ensure a smooth setup process.
