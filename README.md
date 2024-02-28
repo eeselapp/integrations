@@ -42,3 +42,9 @@ Supported chat tools include:
 - MS Teams
 - Custom Widget
 - Embeddable Widget
+
+## AI Chat for Other Channels
+- Email
+- WhatsApp
+
+Contact hi@eesel.app to set up.
